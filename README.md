@@ -1,16 +1,16 @@
 ## Hi there 👋
+I am Sindhuja Parthasarathy. This is my Git Hub Profile. I am a full stack developer passionate about building impactful projects and learning new Technologies.
 
-<!--
-**Sindhu-Sarathy/Sindhu-Sarathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+- 🌱 I’m currently learning JAVA
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about HTML,C# and DotNet
+- 📫 How to reach me: sarathy.sindhu@gmail.com / www.linkedin.com/in/sindhuja-parthasarathy-6856b227b
+- ⚡ Fun fact: I love to dance and read both fiction and non fictional books
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies:
+  . Languages: C#, Javascript,jQuery, VB.Net
+  . Frontend: HTML, CSS, BootStrap, React
+  . Backend: ASP.Net, .Net Core
+  . Database: MySQL, Oracle
+  . Other Tools: Git, GitHub, Docker, VS Code, Visual Studio, Postman
